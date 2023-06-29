@@ -1,3 +1,3 @@
 def greet(name){
-  echo "Hi ${naeme}, This os Groovey Shared Libraris"
+  echo "Hi ${name}, This os Groovey Shared Libraris"
  }
